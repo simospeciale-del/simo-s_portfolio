@@ -36,3 +36,6 @@ Dashboard in Power BI:
 - Create a report-page to display a customer Rating Analysis score based on Credit-score column (and also tootips to show 10 ranking customers Top by salary).
 
 - The Project is published on ![live link to the project] (https://app.powerbi.com/view?r=eyJrIjoiZWM4OGU1ZmUtNjQ3Zi00ZmQzLWFiMmMtY2Q0ZDIxNjgxNjM2IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
+
+- Dashboard Bank Customer Analysis
+-  ![alt text](dashboard_image.jpg)
