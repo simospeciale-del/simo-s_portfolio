@@ -22,9 +22,10 @@ Front End Architecture - Power BI:
 - creation of the Dataset (Tables, structure star-schema, Relationships)
 
 Cleaning data in SQL BigQuery:
--check for any null values (esclude those nulls)
--check for duplicated ID
--Use SQL to create a random date column (fictitious), and then link it to a proper date table (for time-intelligence analysis)
+
+- check for any null values (esclude those nulls)
+- check for duplicated ID
+- Use SQL to create a random date column (fictitious) and link it to a proper date table (for time-intelligence analysis)
 
 Create 2 tables:
 - Account Info
@@ -34,4 +35,4 @@ Dashboard in Power BI:
 - Create 2 report-pages to show Customer Churn Rate analysis & Lost customers, New customers, Returning customers (for 90 days).
 - Create a report-page to display a customer Rating Analysis score based on Credit-score column (and also tootips to show 10 ranking customers Top by salary).
 
-## The Project is published on (https://app.powerbi.com/view?r=eyJrIjoiN2UzNGE3NzYtYzM2Ni00NzYyLTk1ZGEtMDAwYzY3NGE5YTc5IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
+- The Project is published on ![live link to the project](https://app.powerbi.com/view?r=eyJrIjoiN2UzNGE3NzYtYzM2Ni00NzYyLTk1ZGEtMDAwYzY3NGE5YTc5IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
