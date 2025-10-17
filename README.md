@@ -37,5 +37,5 @@ Dashboard in Power BI:
 
 - The Project is published on ![live link to the project] (https://app.powerbi.com/view?r=eyJrIjoiZWM4OGU1ZmUtNjQ3Zi00ZmQzLWFiMmMtY2Q0ZDIxNjgxNjM2IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
 
-- Dashboard Bank Customer Analysis
--  ![alt text](dashboard_image.jpg)
+## Dashboard Bank Customer Analysis
+![alt text](dashboard_image.jpg)
