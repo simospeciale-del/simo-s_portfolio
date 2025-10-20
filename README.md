@@ -32,7 +32,7 @@ Dashboard in Power BI:
 - Create 2 report-pages to show Customer Churn Rate analysis & Lost customers, New customers, Returning customers (for 90 days).
 - Create a report-page to display a customer Rating Analysis score based on Credit-score column (and also tootips to show 10 ranking customers Top by salary).
 
-- The Project is published on ![link to the project] (https://app.powerbi.com/view?r=eyJrIjoiZWM4OGU1ZmUtNjQ3Zi00ZmQzLWFiMmMtY2Q0ZDIxNjgxNjM2IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
+- The Project is published on ![link to the project] https://app.powerbi.com/view?r=eyJrIjoiZWM4OGU1ZmUtNjQ3Zi00ZmQzLWFiMmMtY2Q0ZDIxNjgxNjM2IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9
 
 ## Dashboard Bank Customer Analysis
 ![alt text](dashboard_image.jpg)
@@ -69,7 +69,31 @@ The dashboard in Power BI displays:
 
 **Regoinal Sales Analysis**
 
-- The Project is published on ![link to the project] (https://app.powerbi.com/view?r=eyJrIjoiNjVjNDk5NGMtMWI5Yi00ODI1LThiYWMtNDMyMWZjOGQ4NTkyIiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
+The Project is published on ![link to the project] https://app.powerbi.com/view?r=eyJrIjoiNjVjNDk5NGMtMWI5Yi00ODI1LThiYWMtNDMyMWZjOGQ4NTkyIiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9
 
 ## Dashboard Ecommerce Sales Insights Analysis
 ![alt text](dashboard_EcommerceSales_image.jpg)
+
+# **Project 3: Social Media Ad dashboard**
+**Project Objective**
+
+This dashboard aim is to analyze online Social media ads data.
+Using **Power BI tool** to injest, clean and analyze data.
+Showing KPI's on various aspects, such as:
+
+- demographics (audience segmentation) 
+- breakdowns of revenues, clicks, impressions, conversions
+- funnel & conversions jorney analysis
+
+Advanced visualization techniques:
+Stacked column and bar chart, Treemap chart,Line chart, Matrix & Table, Cards, Funnel chart and Q&A functionalities.
+
+**Dataset**
+Link Kaggle Dataset: https://www.kaggle.com/datasets/ziya07/social-media-ad-engagement-dataset
+The Project is published on ![link to the project] https://app.powerbi.com/view?r=eyJrIjoiMzMyYzY2MTEtODk1OC00OTY0LTg2OTAtYmJiYzBkNzExNTk4IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9
+
+## Dashboard Social Media Ads
+![alt text](.jpg)
+![alt text](.jpg)
+![alt text](.jpg)
+![alt text](.jpg)
