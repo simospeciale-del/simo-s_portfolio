@@ -38,7 +38,7 @@ Dashboard in Power BI:
 ![alt text](dashboard_image.jpg)
 
 
-# **Project 2: ## Dashboard Bank Customer Analysis**
+# **Project 2: Dashboard Ecommerce Sales Insights Analysis**
 
 **PROJECT OVERVIEW**
 This project offers an in-depth analysis of an e-commerce enterprise leveraging **Power BI**. Key business metrics and trends are visualized through a comprehensive dashboard. The insights derived facilitate data-driven decision-making, aiding business growth.
@@ -71,5 +71,5 @@ The dashboard in Power BI displays:
 
 - The Project is published on ![link to the project] (https://app.powerbi.com/view?r=eyJrIjoiNjVjNDk5NGMtMWI5Yi00ODI1LThiYWMtNDMyMWZjOGQ4NTkyIiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9)
 
-## Dashboard ## Dashboard Bank Customer Analysis
-![alt text]()
+## Dashboard Ecommerce Sales Insights Analysis
+![alt text](dashboard_EcommerceSales_image.jpg)
