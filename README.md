@@ -111,11 +111,11 @@ The solution of this project will go through the development of various techniqu
 
 **Purpose & Application**
 
->The project initially goes through the analysis of external quotes, to find the best-choice suppier and what-if scenario.
+>The project initially goes through the analysis of external quotes, to find the best-choice supplier and what-if scenario.
 
 >Then the analysis move towards internal production estimate data, calculating additional capacity and investment requirements.
 
->The final part is more focused on the comparison of the two methodologies (Make vs Buy) and cost savings.
+>The final part is more focused on the comparison of the two methodologies (Make vs Buy), cost savings and quality control.
 
 **Source Dataset** 
 //Datacamp. 
