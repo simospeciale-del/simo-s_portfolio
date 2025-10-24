@@ -19,14 +19,9 @@ Front End Architecture - Power BI:
 - creation of the Dataset (Tables, structure star-schema, Relationships)
 
 Cleaning data in SQL BigQuery:
-
 - check for any null values (esclude those nulls)
 - check for duplicated ID
 - Use SQL to create a random date column (fictitious) and link it to a proper date table (for time-intelligence analysis)
-
-Create 2 tables:
-- Account Info
-- Customers Info
 
 Dashboard in Power BI:
 - Create 2 report-pages to show Customer Churn Rate analysis & Lost customers, New customers, Returning customers (for 90 days).
@@ -36,7 +31,6 @@ Dashboard in Power BI:
 
 ## Dashboard Bank Customer Analysis
 ![alt text](dashboard_image.jpg)
-
 
 # **Project 2: Dashboard Ecommerce Sales Insights Analysis**
 
@@ -57,17 +51,17 @@ Creation of an interactive dashboard for online sales data with various visualiz
 
 The dashboard in Power BI displays:
 
-**Key Performance Indicators** as Total Profit, Total Sales, Total Quantity, Profit Margin%
+>**Key Performance Indicators** as Total Profit, Total Sales, Total Quantity, Profit Margin%
 
-**Monthly Trends:** Sales & Profit
+>**Monthly Trends:** Sales & Profit
 
-**Category-wise Analysis:** Profits, Sales, and Sales%
+>**Category-wise Analysis:** Profits, Sales, and Sales%
 
-**Sales by Geography:** States and Regions
+>**Sales by Geography:** States and Regions
 
-**Top & Bottom 5 Products Analysis**
+>**Top & Bottom 5 Products Analysis**
 
-**Regoinal Sales Analysis**
+>**Regoinal Sales Analysis**
 
 The Project is published on ![https://app.powerbi.com/view?r=eyJrIjoiNjVjNDk5NGMtMWI5Yi00ODI1LThiYWMtNDMyMWZjOGQ4NTkyIiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9]
 
@@ -75,9 +69,9 @@ The Project is published on ![https://app.powerbi.com/view?r=eyJrIjoiNjVjNDk5NGM
 ![alt text](dashboard_EcommerceSales_image.jpg)
 
 # **Project 3: Social Media Ad dashboard**
-**Project Objective**
 
-This dashboard aim is to analyze online Social media ads data.
+**PROJECT OBJECTIVE**
+This dashboard aims is to analyze online Social media ads data.
 Using **Power BI tool** to injest, clean and analyze data.
 Showing KPI's on various aspects, such as:
 
@@ -89,7 +83,7 @@ Advanced visualization techniques:
 Stacked column and bar chart, Treemap chart,Line chart, Matrix & Table, Cards, Funnel chart and Q&A functionalities.
 
 **Dataset**
-Link Kaggle Dataset: https://www.kaggle.com/datasets/ziya07/social-media-ad-engagement-dataset
+Link to Kaggle Dataset: https://www.kaggle.com/datasets/ziya07/social-media-ad-engagement-dataset
 
 The Project is published on ![https://app.powerbi.com/view?r=eyJrIjoiMzMyYzY2MTEtODk1OC00OTY0LTg2OTAtYmJiYzBkNzExNTk4IiwidCI6ImViMTY4ZjAxLWI0ZWEtNDFjNi05YzgyLWM3MzgxNmNhMDViNSIsImMiOjh9]
 
@@ -98,3 +92,37 @@ The Project is published on ![https://app.powerbi.com/view?r=eyJrIjoiMzMyYzY2MTE
 ![alt text](img2.jpg)
 ![alt text](img3.jpg)
 ![alt text](img4.jpg)
+
+
+
+# **Project 4: Dashboard Supply Chain Analytics**
+
+**PROJECT OVERVIEW**
+This project focuses on creating a Make versus Buy comparison analysis tool using **Power BI**. 
+The solution of this project will go through the development of various techniques:
+
+- a quotes analysis tool
+
+- the breakdown of costs for various production volumes (scenario analysis for Buy/Make)
+
+- the integration of internal manufacturing cost data for in-depth analysis
+
+- the use of advanced analysis & visualization techniques (charts, matrix, tables, parameters, dymanic text boxes, interactive tooltips and drill-through)
+
+**Purpose & Application**
+
+>The project initially goes through the analysis of external quotes, to find the best-choice suppier and what-if scenario.
+
+>Then the analysis move towards internal production estimate data, calculating additional capacity and investment requirements.
+
+>The final part is more focused on the comparison of the two methodologies (Make vs Buy) and cost savings.
+
+**Source Dataset** 
+//Datacamp. 
+Serve as a training dataset for supply chain analysis models.
+The dataset has been synthetically generated and do not represent real data.
+
+The Project is published on ![https://app.powerbi.com/reportEmbed?reportId=373e574a-2e6e-440e-966e-510b8c667b8b&autoAuth=true&ctid=eb168f01-b4ea-41c6-9c82-c73816ca05b5]
+
+## Dashboard Supply Chain Analytics
+![alt text](.jpg)
